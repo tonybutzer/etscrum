@@ -1,3 +1,11 @@
+# Success Filtering
+- Validate your hypotheses by speaking with real customers.
+- Excellence is about making the best decisions - Aristotle
+- Efficiency leads to more time for excellent decisions
+- Finding ideas most people don’t know about, or agree with, is key to being successful.
+
+
+
 # day in the life of a scientists
 - 25% each
     - data wrangling
@@ -18,7 +26,7 @@
     - COGS
     - STAC
     - Develop tools, notebooks and libraries
-    - encourge the use of reusable data
+    - encourage the use of reusable data
     - reduce replication
 
 # Reduce the amount of coding
@@ -36,12 +44,14 @@
 > "Time is money. Remove things that reduce your effectiveness at the job." - Tim Ferris
     - simple solutions
         - bash versus kubernetes
+        - MARKDOWN - it works across your project steps.
     - work from home
     - communicate using teams 
     - repeatable technologies
         - git
         - docker
-    - agile processes - focus on outcomes
+    - agile processes - focus on outcomes and customers
+        - manage the queue - be careful with estimates - they usually don't work here
     - SELF DOCUMENTING TECHNOLOGIES
         - Makefiles & Dockerfiles
         - jupyter
@@ -59,7 +69,7 @@
 2. Open Data Cube and Pangeo are solutions waiting for a problem
 3. I offered to help scientists use Pangeo and Xarray
 4. The ET folks and Sanath from fireScience approached me
-    - simple animations
+    - simple animations and the power of xarray
     - had a meeting with the ET stakeholders
         - they had success in the cloud with Google Earth Engine
         - they had audacious goals for VegET
@@ -75,7 +85,7 @@
  3. More XARRAY stuff
      - Zarr
      - Dask
- 4. Vizualization Improvements
+ 4. Visualization Improvements
      - plotly/dash - dashboards
          - port University of Colorado phenology dashboard from Heroku to CHS/AWS
      - Explore holoviews optimizations
