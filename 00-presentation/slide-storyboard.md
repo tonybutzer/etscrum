@@ -33,6 +33,7 @@
     - numpy
         
 # Reduce Metawork
+> "Time is money. Remove things that reduce your effectiveness at the job." - Tim Ferris
     - simple solutions
         - bash versus kubernetes
     - work from home
@@ -50,6 +51,8 @@
     - Everything as CODE
         - infrastructure
         - operations
+    - don't fear disruptive technologies!
+    - listen to youtube at 2x speed - waste time efficiently :-)
         
 # How we got started -- ET incubation
 1. Attended Pangeo School together
@@ -79,4 +82,7 @@
      - Other Visualizations
  5. Figure out ARC in the Cloud!
 
+# More Information is Available via:
+1. Stefanie Kagone
+2. Gabriel Senay
 
