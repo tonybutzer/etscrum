@@ -91,8 +91,39 @@
      - Explore holoviews optimizations
      - Other Visualizations
  5. Figure out ARC in the Cloud!
+ 
+ ## CASE Studies - Chesapeake Compare lessons learned
+
+1. https://support.chs.usgs.gov/display/CHSK/Chesapeake+Bay+Studies+-+Getting+Started+with+Cloud-based+Science
+```
+https://support.chs.usgs.gov/display/CHSKB/Chesapeake+Bay+Studies+-+Getting+Started+with+Cloud-based+Science
+```
+
+- Chesapeake Bay Studies investigated how USGS Cloud Hosting Solutions (CHS) could enable more efficient data sharing 
+    - among science teams and provide 21st century science capabilities. 
+    - showed the readiness and support for moving their science to the Cloud. 
+    - It takes significant effort and planning to adopt the Cloud.
+
+- Critical Factors
+    - identification of a CHS Point of Contact and 
+    - establishing a sustainable Cost Center Cloud account and funding structure.
+    - complete buy-in by science team(s)
+    - understand access methods
+    - ingress and egress methods and costs [tony]
+    
+By far, the majority indicated that they had some skills but would like more training.
+    - we used real time - just in time training for ET
+
+- The Cloud offers unbound possibilities but requires thoughtful planning to stay within the available budget resources. 
 
 # More Information is Available via:
 1. Stefanie Kagone
 2. Gabriel Senay
+
+
+# Ideas
+https://github.com/tonybutzer/training/blob/7532708d7a5e2db5b87d59ae8da1799c0d647bb4/aws/amazonPricelistAnalysis-Copy2.ipynb
+grab the orange price grab from above
+
+give the presentation -and when 10 minutes are up just stop
 

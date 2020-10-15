@@ -1,7 +1,48 @@
 # Today
 
+This is the list of outputs of the VegET model (Oct 2020) sorted by importance:
+
+ 
+
+
+	
+Eta (Etasw)
+	Surface Runoff (SRF)
+	Deep drainage (DD)
+	netet (netet)
+	crop eta (etc)
+	final soil water (SWf)
+	Snowpack (SNWpk)
+	Rain
+	snow water equivalent (SWE)
+	snow melt (snow_melt)
+	initial soil water (SWi)
+
+# 10-14-2020
+
+1. cleanup mini-pangeo-v1
+    - shutdown the jupyter hub - DONE
+        - sudo systemctl stop jupyterhub.service
+        - Bad Gateway
+        - DONE!
+    - cleanup big files - skipped - tarred to the cloud instead - DONE
+        - tifs etc
+    - tar the /home directory - DONE
+        - s3fs mount
+            - create backup dir - DONE tarballs is its name
+        - cleanup kagone and tar -DONE
+        - rouze is harder - DONE
+    - create accounts in new pangeo !
+        - add readme to rouze and kagone for instructions
+            - the tarball is a crutch - use git
+    - cleanup new pangeo disk - create a clean dir in etscrum
+        - create tools for cleaning directories
+    - shutdown the host tear it down !
+2. complete ethics training
+
 # 10-13-2020
 ### Mosaic Outputs
+1. Complete KBR IT Security training -1 hour DONE!
 1. Please WAIT this could take a while
 1. Anything we want to change on readme high level strategy?
 2. start up a new host ec2
