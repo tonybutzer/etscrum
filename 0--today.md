@@ -2,21 +2,56 @@
 
 This is the list of outputs of the VegET model (Oct 2020) sorted by importance:
 
- 
+    Eta (Etasw)
+    Surface Runoff (SRF)
+    Deep drainage (DD)
+    netet (netet)
+    crop eta (etc)
+    final soil water (SWf)
+    Snowpack (SNWpk)
+    Rain
+    snow water equivalent (SWE)
+    snow melt (snow_melt)
+    initial soil water (SWi)
+    
+# 10-16-2020
+
+1. strategy meeting with steffi
+    - next week
+        - presentation for lcmap
+            - aws cost analysis
+        - etviz
+        - cleanup disk
+2. aws cleanup start the project in etscrum
+    - shutdown butz2
+3. complete MANDATORY KBR ethics training
+4. look at review stuff
+5. docker package exploration nb
 
 
-	
-Eta (Etasw)
-	Surface Runoff (SRF)
-	Deep drainage (DD)
-	netet (netet)
-	crop eta (etc)
-	final soil water (SWf)
-	Snowpack (SNWpk)
-	Rain
-	snow water equivalent (SWE)
-	snow melt (snow_melt)
-	initial soil water (SWi)
+
+
+# 10-15-2020
+
+    Eta (Etasw) - DONE!
+    Surface Runoff (SRF) - DONE!
+    Deep drainage (DD) - DONE!
+    netet (netet) - DONE!
+    crop eta (etc) - DONE!
+    final soil water (SWf) --- WIP
+    Snowpack (SNWpk)
+    Rain
+    snow water equivalent (SWE)
+    snow melt (snow_melt)
+    initial soil water (SWi)
+    
+1. worked with Nathan Roberts and sunne on Pangeo - Requester Pays
+2. Continue to look at ways to refine the Mosaic code
+    - mlauncher concept using docker python package
+
+
+
+
 
 # 10-14-2020
 

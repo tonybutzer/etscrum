@@ -1,8 +1,21 @@
+## Strategic Approach (Strategy)
+
+Put together a proposal/concept of operations for Land Change Science - Incubator
+
+
+
 ## Interviews
 
 1. Cassandra Ladino --> ccladino@usgs.gov -
     - IT applications specialist with 10+ years of experience at USGS in project management and application design. 
     - Currently focusing on data architecting in AWS cloud. 
+2. Jeff Briden --> LCMAP
+[3:50 PM] Briden, Jeffrey (Contractor) A
+    The links at bottom of doc are helpful. 
+https://internal.usgs.gov/oei/security/information-technology-it-security/aa/
+https://support.chs.usgs.gov/display/CHSKB/Custom+Environment+Security
+
+
     
 ### Currently focusing on data architecting in AWS cloud. 
 
