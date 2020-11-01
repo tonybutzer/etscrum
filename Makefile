@@ -1,3 +1,7 @@
+gitbig:
+	find . -size +10M
+	echo du -a ./ | sort -n -r | head -n 20
+	for file in `find . -size +10M`; do ls -lh $$file; done
 
 
 publish:
