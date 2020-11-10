@@ -11,6 +11,38 @@ Organize all the many todo's for this project - using github
 5. Continued Computer Science Research - simple scaling methods in the cloud
 
 
+
+# CONUS Objective Defined
+
+- When?
+- What?
+
+```
+Eta (Etasw) *
+Surface Runoff (SRF) *
+Deep drainage (DD) *
+netet (netet) *
+crop eta (etc) *
+final soil water (SWf)
+Snowpack (SNWpk)
+Rain
+snow water equivalent (SWE)
+snow melt (snow_melt)
+initial soil water (SWi)
+```
+
+- * items are processed as enduser COGS
+
+
+# CONUS November Tasks
+
+- Debug the model run for 150 years?
+- Cleanup unused S3 object storage from past runs
+- Build a tile runner jupyter notebook
+    - uses panel for User Interfaces
+    - uses docker package/modules for running docker containers for each chip
+- 
+
 # Month Goals October
 
 1. Presentation to LCMAP clan
