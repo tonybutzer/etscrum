@@ -24,3 +24,7 @@ pub2:
 	git add .
 	git commit -m "automatic git update from Makefile"
 	git push
+
+
+jup:
+	docker run -it -p 8080:8888 -v `pwd`:/home/jovyan/ tbutzer/jupyter-rise jupyter notebook --allow-root --ip="0.0.0.0" --NotebookApp.token='yaml'
