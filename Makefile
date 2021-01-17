@@ -27,4 +27,4 @@ pub2:
 
 
 jup:
-	docker run -it -p 8080:8888 -v `pwd`:/home/jovyan/ tbutzer/jupyter-rise jupyter notebook --allow-root --ip="0.0.0.0" --NotebookApp.token='yaml'
+	docker run -it -p 8080:8888 -v `pwd`:/home/jovyan/ tbutzer/jupyter jupyter notebook --allow-root --ip="0.0.0.0" --NotebookApp.token='yaml'

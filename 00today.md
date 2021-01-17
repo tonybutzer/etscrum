@@ -1,5 +1,23 @@
 # Today
 
+# What's Next
+- AOI for yaml inputs
+- mapping tile dance card to 10degree tiles
+- run etModel on 10 degree tile
+- mosaic 10 degree tile
+- develop automated orchestration for all of conus
+- 
+
+# 1-17-2021
+
+- refresh etscrum on ship0
+- edit readme
+- test new repos for DRB `visual inspection`
+	- https://github.com/skagone/cloud-veg-et-basin
+	- https://github.com/skagone/cloud-veg-et-continent
+- rerun DRB after unchasing your tail on repo shifts
+- clean out prefix/dir dev-et-data/out
+
 This is the list of outputs of the VegET model (Oct 2020) sorted by importance:
 
     Eta (Etasw)
