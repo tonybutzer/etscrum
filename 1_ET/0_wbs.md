@@ -5,9 +5,9 @@
 ### S3 Data Organization and Conus Inputs
 
 - steffi and olena - to get input data ready for conus
-- cleanup all old s3 bucket data
+- `cleanup all old s3 bucket data`
     - push to netapp if you want to keep this data - use the vdi and scp and s3fs mounts
-    - learn aws s3 rm --recursive --dryrum
+    - **learn aws s3 rm --recursive --dryrun**
     - learn to use tmux
     - setup ubuntu ssh keys for olena
 
@@ -19,7 +19,7 @@
 - WAIT for data wrangle and data cleanup activities
 - refine logging
 - refine orchestration
-- build tile tracker
+- `build tile tracker`
 - run path_param.yml - extent analyzer notebook - find this notebook and organize into conus-veget repo
 
 
