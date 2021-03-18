@@ -6,60 +6,60 @@
 </Schema>
 <Folder><name>conus1_tiles</name>
   <Placemark>
-	<name>r40.0_tile0</name>
+	<name>r37.0_tile0</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">0</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-130,40 -120,40 -120,30 -130,30 -130,40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-125,37 -112,37 -112,23 -125,23 -125,37</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
-	<name>r40.0_tile1</name>
+	<name>r37.0_tile1</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">1</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-120,40 -110,40 -110,30 -120,30 -120,40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-112,37 -99,37 -99,23 -112,23 -112,37</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
-	<name>r40.0_tile2</name>
+	<name>r37.0_tile2</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">2</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-110,40 -100,40 -100,30 -110,30 -110,40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99,37 -86,37 -86,23 -99,23 -99,37</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
-	<name>r40.0_tile3</name>
+	<name>r37.0_tile3</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">3</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-100,40 -90,40 -90,30 -100,30 -100,40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-86,37 -73,37 -73,23 -86,23 -86,37</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
-	<name>r40.0_tile4</name>
+	<name>r37.0_tile4</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">4</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-90,40 -80,40 -80,30 -90,30 -90,40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-73,37 -60,37 -60,23 -73,23 -73,37</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
-	<name>r40.0_tile5</name>
+	<name>r50.0_tile5</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">5</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-80,40 -70,40 -70,30 -80,30 -80,40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-125,50 -112,50 -112,37 -125,37 -125,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
-	<name>r40.0_tile6</name>
+	<name>r50.0_tile6</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">6</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70,40 -60,40 -60,30 -70,30 -70,40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-112,50 -99,50 -99,37 -112,37 -112,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
 	<name>r50.0_tile7</name>
@@ -67,7 +67,7 @@
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">7</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-130,50 -120,50 -120,40 -130,40 -130,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99,50 -86,50 -86,37 -99,37 -99,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
 	<name>r50.0_tile8</name>
@@ -75,7 +75,7 @@
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">8</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-120,50 -110,50 -110,40 -120,40 -120,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-86,50 -73,50 -73,37 -86,37 -86,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
 	<name>r50.0_tile9</name>
@@ -83,7 +83,7 @@
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">9</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-110,50 -100,50 -100,40 -110,40 -110,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-73,50 -60,50 -60,37 -73,37 -73,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
 	<name>r50.0_tile10</name>
@@ -91,39 +91,7 @@
 	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
 		<SimpleData name="id">10</SimpleData>
 	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-100,50 -90,50 -90,40 -100,40 -100,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<name>r50.0_tile11</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
-		<SimpleData name="id">11</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-90,50 -80,50 -80,40 -90,40 -90,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<name>r50.0_tile12</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
-		<SimpleData name="id">12</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-80,50 -70,50 -70,40 -80,40 -80,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<name>r50.0_tile13</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
-		<SimpleData name="id">13</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70,50 -60,50 -60,40 -70,40 -70,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<name>r50.0_tile14</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#conus1_tiles">
-		<SimpleData name="id">14</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>-60,50 -50,50 -50,40 -60,40 -60,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-60,50 -47,50 -47,37 -60,37 -60,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>
